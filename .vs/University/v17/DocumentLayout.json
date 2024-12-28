@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aHenao\\Apis\\C# Net 6\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|c:\\ahenao\\apis\\c# net 6\\university\\universityapi\\models\\datamodels\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\models\\datamodels\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|c:\\ahenao\\apis\\c# net 6\\university\\universityapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|c:\\ahenao\\apis\\c# net 6\\university\\universityapi\\dataaccess\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\dataaccess\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|c:\\ahenao\\apis\\c# net 6\\university\\universityapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|c:\\ahenao\\apis\\c# net 6\\university\\universityapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|c:\\ahenao\\apis\\c# net 6\\university\\universityapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F0967C-19B5-4471-976E-BE25362E55F1}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "UniversityApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:18:25.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityApi\\appsettings.json",
+              "ToolTip": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\appsettings.json",
+              "RelativeToolTip": "UniversityApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T20:18:25.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Program.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\Program.cs",
+              "RelativeToolTip": "UniversityApi\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:18:25.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\WeatherForecast.cs",
+              "RelativeToolTip": "UniversityApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:18:25.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversityDBContext.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\DataAccess\\UniversityDBContext.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\DataAccess\\UniversityDBContext.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\DataAccess\\UniversityDBContext.cs",
+              "RelativeToolTip": "UniversityApi\\DataAccess\\UniversityDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:18:25.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\Models\\DataModels\\Curso.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Models\\DataModels\\Curso.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\C# Net 6\\University\\UniversityApi\\Models\\DataModels\\Curso.cs",
+              "RelativeToolTip": "UniversityApi\\Models\\DataModels\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:18:25.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
